@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SubtractionTest" tests="6" skipped="2" failures="0" errors="0" timestamp="2018-02-20T10:30:31" hostname="Shreyansh-Sahu" time="0.014">
+  <properties/>
+  <testcase name="subtractTwoDoubles" classname="SubtractionTest" time="0.001"/>
+  <testcase name="subtractTwoInts" classname="SubtractionTest" time="0.0"/>
+  <testcase name="subtractTwoFloats" classname="SubtractionTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="subtractTwoDoubles" classname="SubtractionTest" time="0.001"/>
+  <testcase name="subtractTwoInts" classname="SubtractionTest" time="0.001"/>
+  <testcase name="subtractTwoFloats" classname="SubtractionTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

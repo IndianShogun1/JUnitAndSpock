@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AdditionTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2018-02-20T10:30:31" hostname="Shreyansh-Sahu" time="0.012">
+  <properties/>
+  <testcase name="testTheSumWithTwoDoubles" classname="AdditionTest" time="0.001"/>
+  <testcase name="testTheSumWithTwoStrings" classname="AdditionTest" time="0.0"/>
+  <testcase name="testTheSumWithTwoInts" classname="AdditionTest" time="0.0"/>
+  <testcase name="canaryTest" classname="AdditionTest" time="0.0"/>
+  <testcase name="testTheSumWithTwoLists" classname="AdditionTest" time="0.0"/>
+  <testcase name="testTheSumWithTwoDoubles" classname="AdditionTest" time="0.001"/>
+  <testcase name="testTheSumWithTwoStrings" classname="AdditionTest" time="0.0"/>
+  <testcase name="testTheSumWithTwoInts" classname="AdditionTest" time="0.0"/>
+  <testcase name="canaryTest" classname="AdditionTest" time="0.0"/>
+  <testcase name="testTheSumWithTwoLists" classname="AdditionTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
