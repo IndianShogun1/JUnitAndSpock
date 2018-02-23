@@ -1,14 +1,17 @@
 import org.junit.Before;
+import org.junit.BeforeClass;
 import org.junit.Test;
 
 import static org.junit.Assert.*;
 
 public class DivisionTest {
 
-    Division division;
+     private static Division division;
 
-    @Before
-    public void setup() {
+
+
+    @BeforeClass
+    public static void setup() {
         division = new Division();
     }
 
