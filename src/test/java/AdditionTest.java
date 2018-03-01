@@ -36,6 +36,7 @@ public class AdditionTest {
     @Test
     public void testTheSumWithTwoLists() {
         Assert.assertEquals(addition.sum(Arrays.asList(1, 2),Arrays.asList(3, 4)),Arrays.asList(1, 2, 3, 4));
+
         Assert.assertEquals(addition.sum(Arrays.asList(7, 5, 5), Arrays.asList(7, 5, 5)), Arrays.asList(7,5,5,7,5,5));
     }
 

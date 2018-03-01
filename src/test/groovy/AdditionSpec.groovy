@@ -20,7 +20,7 @@ class AdditionSpec extends Specification {
         def b = 20
 
         when:
-        c = addition.add(a, b)
+        def c = addition.add(a, b)
 
         then:
         c == 30

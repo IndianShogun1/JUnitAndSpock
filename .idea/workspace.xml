@@ -2,34 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="838f208d-84cb-453f-b77b-519465bc4e8e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/4.0/fileContent/annotation-processors.bin" afterPath="$PROJECT_DIR$/.gradle/4.0/fileContent/annotation-processors.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.0/fileContent/fileContent.lock" afterPath="$PROJECT_DIR$/.gradle/4.0/fileContent/fileContent.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.0/fileHashes/resourceHashesCache.bin" afterPath="$PROJECT_DIR$/.gradle/4.0/fileHashes/resourceHashesCache.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.0/taskHistory/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/4.0/taskHistory/fileSnapshots.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.0/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.0/taskHistory/taskHistory.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.0/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.0/taskHistory/taskHistory.lock" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/JUnitAndSpock.iml" afterPath="$PROJECT_DIR$/.idea/modules/JUnitAndSpock.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/JUnitAndSpock_main.iml" afterPath="$PROJECT_DIR$/.idea/modules/JUnitAndSpock_main.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/JUnitAndSpock_test.iml" afterPath="$PROJECT_DIR$/.idea/modules/JUnitAndSpock_test.iml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/DivisionTest.class" afterPath="$PROJECT_DIR$/build/classes/java/test/DivisionTest.class" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/AdditionTest.html" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/AdditionTest.html" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/DivisionTest.html" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/DivisionTest.html" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/SubtractionTest.html" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/SubtractionTest.html" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-AdditionTest.xml" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-AdditionTest.xml" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-DivisionTest.xml" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-DivisionTest.xml" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-SubtractionTest.xml" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-SubtractionTest.xml" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Division.class" afterPath="$PROJECT_DIR$/out/production/classes/Division.class" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/DivisionTest.class" afterPath="$PROJECT_DIR$/out/test/classes/DivisionTest.class" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/DivisionTest.java" afterPath="$PROJECT_DIR$/src/test/java/DivisionTest.java" />
+      <change beforePath="$PROJECT_DIR$/src/test/groovy/AdditionSpec.groovy" afterPath="$PROJECT_DIR$/src/test/groovy/AdditionSpec.groovy" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/AdditionTest.java" afterPath="$PROJECT_DIR$/src/test/java/AdditionTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -82,8 +57,8 @@
       <file leaf-file-name="AdditionTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/AdditionTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="46" column="1" lean-forward="true" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
+            <state relative-caret-position="504">
+              <caret line="39" column="8" lean-forward="false" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#262#263#0" expanded="true" />
@@ -99,17 +74,17 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/Addition.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="324">
-              <caret line="37" column="1" lean-forward="true" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
+              <caret line="37" column="1" lean-forward="false" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AdditionSpec.groovy" pinned="false" current-in-tab="false">
+      <file leaf-file-name="AdditionSpec.groovy" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/groovy/AdditionSpec.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="576">
-              <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+            <state relative-caret-position="288">
+              <caret line="25" column="15" lean-forward="true" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -145,11 +120,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DivisionTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DivisionTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/DivisionTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+            <state relative-caret-position="234">
+              <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
               <folding>
                 <element signature="e#233#234#0" expanded="true" />
                 <element signature="e#274#275#0" expanded="true" />
@@ -173,7 +148,7 @@
       <file leaf-file-name="TestSuite.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestSuite.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
+            <state relative-caret-position="72">
               <caret line="5" column="62" lean-forward="false" selection-start-line="5" selection-start-column="62" selection-end-line="5" selection-end-column="62" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -622,7 +597,6 @@
         <option value="$PROJECT_DIR$/src/test/java/RunsWith.java" />
         <option value="$PROJECT_DIR$/src/test/java/TestSuite.java" />
         <option value="$PROJECT_DIR$/src/test/java/TestRunner.java" />
-        <option value="$PROJECT_DIR$/src/test/java/AdditionTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/SubtractionTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Subtraction.java" />
         <option value="$PROJECT_DIR$/build.gradle" />
@@ -630,8 +604,9 @@
         <option value="$PROJECT_DIR$/src/test/java/DivisionTest.java" />
         <option value="$PROJECT_DIR$/src/test/groovy/SubtractionSpec.groovy" />
         <option value="$PROJECT_DIR$/src/test/groovy/AdditionSPec.groovy" />
-        <option value="$PROJECT_DIR$/src/test/groovy/AdditionSpec.groovy" />
         <option value="$PROJECT_DIR$/src/main/java/Division.java" />
+        <option value="$PROJECT_DIR$/src/test/java/AdditionTest.java" />
+        <option value="$PROJECT_DIR$/src/test/groovy/AdditionSpec.groovy" />
       </list>
     </option>
   </component>
@@ -643,7 +618,7 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="75" />
-    <option name="y" value="16" />
+    <option name="y" value="-4" />
     <option name="width" value="1281" />
     <option name="height" value="732" />
   </component>
@@ -665,7 +640,7 @@
     <panes>
       <pane id="AndroidView" />
       <pane id="Scope" />
-      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -719,7 +694,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -758,7 +733,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.DivisionTest">
+  <component name="RunManager" selected="JUnit.AdditionSpec.testSumInts">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -948,8 +923,8 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.DivisionTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.AdditionSpec.testSumInts" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.AdditionSpec.testSumInts" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.DivisionTest" />
         <item index="2" class="java.lang.String" itemvalue="JUnit.AdditionSpec.testSumStrings" />
         <item index="3" class="java.lang.String" itemvalue="JUnit.AdditionSpec.testStrings" />
         <item index="4" class="java.lang.String" itemvalue="JUnit.AdditionSpec.anotherSumIntsTest" />
@@ -975,18 +950,21 @@
       <workItem from="1519205927818" duration="600000" />
       <workItem from="1519226486971" duration="2263000" />
       <workItem from="1519291107708" duration="5005000" />
-      <workItem from="1519372782963" duration="6167000" />
+      <workItem from="1519372782963" duration="6756000" />
+      <workItem from="1519628941443" duration="944000" />
+      <workItem from="1519706779376" duration="596000" />
+      <workItem from="1519878450089" duration="53000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AdditionSpec_anotherSumIntsTest - 2018.02.23 at 14h 45m 04s.xml">
-      <configuration name="AdditionSpec.anotherSumIntsTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="AdditionSpec_testStrings - 2018.02.23 at 14h 52m 38s.xml">
       <configuration name="AdditionSpec.testStrings" configurationId="JUnit" />
     </history-entry>
     <history-entry file="AdditionSpec_testSumInts - 2018.02.23 at 14h 53m 09s.xml">
+      <configuration name="AdditionSpec.testSumInts" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AdditionSpec_testSumInts - 2018.03.01 at 09h 58m 15s.xml">
       <configuration name="AdditionSpec.testSumInts" configurationId="JUnit" />
     </history-entry>
     <history-entry file="AdditionSpec_testSumStrings - 2018.02.23 at 14h 43m 24s.xml">
@@ -1012,10 +990,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22917000" />
+    <option name="totallyTimeSpent" value="25099000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
+    <frame x="64" y="-11" width="1303" height="780" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1025,12 +1004,12 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32761312" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32761312" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26693228" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2812749" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20956175" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1088,12 +1067,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="28" column="11" lean-forward="false" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
-          <folding>
-            <element signature="e#232#233#0" expanded="true" />
-            <element signature="e#279#280#0" expanded="true" />
-            <element signature="e#583#584#0" expanded="true" />
-            <element signature="e#661#662#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1177,12 +1150,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="28" column="11" lean-forward="false" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
-          <folding>
-            <element signature="e#232#233#0" expanded="true" />
-            <element signature="e#279#280#0" expanded="true" />
-            <element signature="e#583#584#0" expanded="true" />
-            <element signature="e#661#662#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1271,12 +1238,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="28" column="11" lean-forward="false" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
-          <folding>
-            <element signature="e#232#233#0" expanded="true" />
-            <element signature="e#279#280#0" expanded="true" />
-            <element signature="e#583#584#0" expanded="true" />
-            <element signature="e#661#662#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1367,12 +1328,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="28" column="11" lean-forward="false" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
-          <folding>
-            <element signature="e#232#233#0" expanded="true" />
-            <element signature="e#279#280#0" expanded="true" />
-            <element signature="e#583#584#0" expanded="true" />
-            <element signature="e#661#662#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1468,12 +1423,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="28" column="11" lean-forward="false" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
-          <folding>
-            <element signature="e#232#233#0" expanded="true" />
-            <element signature="e#279#280#0" expanded="true" />
-            <element signature="e#583#584#0" expanded="true" />
-            <element signature="e#661#662#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1482,12 +1431,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="28" column="11" lean-forward="false" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
-          <folding>
-            <element signature="e#232#233#0" expanded="true" />
-            <element signature="e#279#280#0" expanded="true" />
-            <element signature="e#583#584#0" expanded="true" />
-            <element signature="e#661#662#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1531,49 +1474,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/groovy/SubtractionSpec.groovy">
+    <entry file="file://$PROJECT_DIR$/src/test/groovy/SubtractionSpec.groovy" />
+    <entry file="file://$PROJECT_DIR$/src/test/groovy/AdditionSPec.groovy" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Addition.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="44" lean-forward="false" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+        <state relative-caret-position="324">
+          <caret line="37" column="1" lean-forward="false" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/AdditionTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Division.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="46" column="1" lean-forward="true" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
+        <state relative-caret-position="36">
+          <caret line="2" column="27" lean-forward="false" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#262#263#0" expanded="true" />
-            <element signature="e#303#304#0" expanded="true" />
-            <element signature="e#345#346#0" expanded="true" />
-            <element signature="e#384#385#0" expanded="true" />
+            <element signature="e#53#54#0" expanded="true" />
+            <element signature="e#81#82#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/groovy/AdditionSPec.groovy">
+    <entry file="file://$PROJECT_DIR$/src/test/java/DivisionTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/groovy/AdditionSpec.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Addition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="37" column="1" lean-forward="true" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
-          <folding />
+        <state relative-caret-position="234">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <element signature="e#233#234#0" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
+            <element signature="e#361#362#0" expanded="true" />
+            <element signature="e#401#402#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1592,9 +1523,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/AdditionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="39" column="8" lean-forward="false" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#262#263#0" expanded="true" />
+            <element signature="e#303#304#0" expanded="true" />
+            <element signature="e#345#346#0" expanded="true" />
+            <element signature="e#384#385#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestSuite.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
+        <state relative-caret-position="72">
           <caret line="5" column="62" lean-forward="false" selection-start-line="5" selection-start-column="62" selection-end-line="5" selection-end-column="62" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1612,27 +1557,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Division.java">
+    <entry file="file://$PROJECT_DIR$/src/test/groovy/AdditionSpec.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="27" lean-forward="false" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
-          <folding>
-            <element signature="e#53#54#0" expanded="true" />
-            <element signature="e#81#82#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/DivisionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding>
-            <element signature="e#233#234#0" expanded="true" />
-            <element signature="e#274#275#0" expanded="true" />
-            <element signature="e#361#362#0" expanded="true" />
-            <element signature="e#401#402#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="288">
+          <caret line="25" column="15" lean-forward="true" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="15" />
+          <folding />
         </state>
       </provider>
     </entry>
